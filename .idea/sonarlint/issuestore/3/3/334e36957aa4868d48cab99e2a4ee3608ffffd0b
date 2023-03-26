@@ -1,0 +1,7 @@
+
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8£…¾»Õ/
+h
+java:S1612"KReplace this lambda with method reference 'UnionLogsSolution::isNotHeader'.(àùØ8™Õ ÂÕ/
+p
+java:S2095"NUse try-with-resources or close this "JavaSparkContext" in a "finally" clause.(¸á‚Ğùÿÿÿÿ8íè½»Õ/

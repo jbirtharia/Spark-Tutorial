@@ -1,0 +1,10 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ð¸¥Ýÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÆñ‘úÿÿÿÿ
+B
+java:S1602 ",Remove useless curly braces around statement(ëÔÉÚ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ÏÚû©úÿÿÿÿ
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(‘Þ¿°ùÿÿÿÿ8ÐÑ¾ÚÕ/
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(Ö¢°Ÿþÿÿÿÿ8ñÂ¿ÚÕ/
+i
+java:S2095"NUse try-with-resources or close this "JavaSparkContext" in a "finally" clause.(¸á‚Ðùÿÿÿÿ
